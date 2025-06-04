@@ -11,10 +11,11 @@ export const HeroSection = () => {
         {/* Left: Image */}
         <div className="w-full md:w-1/2 flex justify-center">
           <img
-  src="/public/fotu.jpg"
+  src="/fotu.jpg"
   alt="K Reena"
   className="w-72 h-72 md:w-96 md:h-96 rounded-full shadow-lg object-cover object-top opacity-0 animate-fade-in"
 />
+
         </div>
 
         {/* Right: Text */}
